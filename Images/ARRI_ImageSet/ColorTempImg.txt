@@ -1,0 +1,2 @@
+colorT1,colorT2,colorT3,colorT4,colorT5,colorT6,colorT7,colorT8,colorT9,colorT10,colorT11,colorT12
+5600,5600,5600,3200,5600,5600,5600,5600,5600,3200,5600,3200
